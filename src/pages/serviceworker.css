@@ -1,0 +1,9 @@
+.mainBackground {
+    background-color: rgb(92, 92, 92);
+    height: 100vh;
+
+}
+
+.insideMain {
+    padding: 8px;
+}

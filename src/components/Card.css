@@ -1,0 +1,31 @@
+.mainCard {
+    background-color: white;
+    border-radius: 5px;
+    width: 90%;
+
+}
+
+.cardLower {
+    background-color: black;
+    height: 6vh;
+    color: white;
+    border-radius: 5px;
+}
+
+.jobTitle {
+    font-style: oblique;
+    font-weight: bold;
+}
+
+.salary {
+    font-size: 10px;
+    background-color: #9C9D9E;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    color: black
+}
+
+.applied {
+    font-weight: bold;
+}
